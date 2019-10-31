@@ -6,11 +6,6 @@
 //  Each lane has a lock on its process but when it is finished will move to 
 //  another threaded lane.
 //
-// What's on your mind about this lab?
-//  This lab took a lot of downtime thinking how to modify the Lab 3 to
-//  implement multithreading. 
-//  It took some time tothink about how to implement the locks and initialize the threads.
-//
 // Author: Jason Yoon
 //
 // Date: 11/30/2018
